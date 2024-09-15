@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(19, 249, 249);
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 0, 0);
+
+}
+p{
+background-color: chartreuse;
+color: rgb(246, 0, 107);
+}
